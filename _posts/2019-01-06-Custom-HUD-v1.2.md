@@ -7,10 +7,10 @@ layout: post
 First E2 I have uploaded!:
 
 Features:
-<br>Updating Automatically</br>
-<br>Fits any Resolution automatically</br>
-<br>Shows Name, Job, HP, Staff Online & Players/Max Players</br>
-<br>Compact</br>
+<br>Updating Automatically
+<br>Fits any Resolution automatically
+<br>Shows Name, Job, HP, Staff Online & Players/Max Players
+<br>Compact
 
 [Link][1]
 
@@ -26,10 +26,10 @@ First and only Screenshot:
 Første E2 jeg har uploaded!:
 
 Funktioner:
-Opdater Automatisk
-Passer til enhver skærm størrelse automatisk
-Viser Navn, Job, HP, Staff Online & Spiller Antal/Max Spiller Antal
-Kompakt
+<br>Opdater Automatisk
+<br>Passer til enhver skærm størrelse automatisk
+<br>Viser Navn, Job, HP, Staff Online & Spiller Antal/Max Spiller Antal
+<br>Kompakt
 
 [Link][1]
 
