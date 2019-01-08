@@ -7,10 +7,10 @@ layout: post
 First E2 I have uploaded!:
 
 Features:
-Updating Automatically
-Fits any Resolution automatically
-Shows Name, Job, HP, Staff Online & Players/Max Players
-Compact
+<br>Updating Automatically</br>
+<br>Fits any Resolution automatically</br>
+<br>Shows Name, Job, HP, Staff Online & Players/Max Players</br>
+<br>Compact</br>
 
 [Link][1]
 
