@@ -6,8 +6,8 @@ layout: post
 
 Auto Advert:
 
-Features:\
-Easy 2 Use\
+Features:\n
+Easy 2 Use\n
 Very Fast to Setup
 
 [Link][1]
