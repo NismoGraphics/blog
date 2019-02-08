@@ -7,9 +7,9 @@ layout: post
 Time Hud (nTime):
 
 Features:
-Displays Time (In Denmark or UTC)
-Nice Design
-Automatically Calibrates for your Resolution
+<br>Displays Time (In Denmark or UTC)
+<br>Nice Design
+<br>Automatically Calibrates for your Resolution
 
 [Pastebin][1]
 
