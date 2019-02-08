@@ -19,7 +19,9 @@ Features:
 
 <details>
 
-<summary>Code</summary>
+<summary>
+	Code
+</summary>
 
 ```
 
