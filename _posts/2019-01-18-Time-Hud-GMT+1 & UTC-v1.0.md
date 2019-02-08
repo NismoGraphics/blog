@@ -1,6 +1,17 @@
 ---
 layout: post
 ---
+<style type="text/css">
+     .spoilerbutton {display:block; border:none; padding: 0px 0px; margin:10px 0px; font-size:150%; font-weight: bold; color:#000000; background-color:transparent; outline:0; 
+     }
+     .spoiler {overflow:hidden;}
+     .spoiler > div {-webkit-transition: all 0s ease;-moz-transition: margin 0s ease;-o-transition: all 0s ease;transition: margin 0s ease;}
+     .spoilerbutton[value="Show Code"] + .spoiler > div {margin-top:-500%;}
+     .spoilerbutton[value="Hide Code"] + .spoiler {padding:5px;} 
+</style> 
+
+<input class="spoilerbutton" type="button" value="Show Code" onclick="this.value=this.value=='Show Code'?'Hide Code':'Show Code';">
+
 
 # English:
 
@@ -11,7 +22,7 @@ Features:
 <br>Nice Design
 <br>Automatically Calibrates for your Resolution
 
-<spoiler>```lua
+<div class="spoiler"><div>```lua
 @name Time Hud
 @inputs E:wirelink
  
@@ -49,7 +60,9 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
-```</spoiler>
+``` 
+</div>
+</div>
 
 <!-- [Pastebin][1] -->
 
@@ -66,7 +79,7 @@ Funktioner:
 <br>Fedt Design
 <br>Automatisk Kalibrer sig til dit spil' størrelse.
 
-<spoiler>```lua
+```lua
 @name Time Hud
 @inputs E:wirelink
  
@@ -104,7 +117,7 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
-```</spoiler>
+```
 <!-- [Pastebin][1] -->
 
 Billeder(Screenshots) =
