@@ -70,8 +70,8 @@ E:egpColor(2, 0,0,0,200)
 </details> -->
 
 [Pastebin][1]
-
 <br>Images(Screenshots) =
+
 None
 
 # Danish:
@@ -134,8 +134,8 @@ E:egpColor(2, 0,0,0,200)
 </details> -->
 
 [Pastebin][1]
-
 <br>Billeder(Screenshots) =
+
 Ingen
 
 [1]: https://pastebin.com/XQYGMZ2B
