@@ -18,7 +18,7 @@ Features:
 <br>Automatically Calibrates for your Resolution
 
 <details>
-    <summary>Code</summary>
+    <summary>Code
 ```lua
 @name Time Hud
 @inputs E:wirelink
@@ -58,6 +58,9 @@ E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
 ```
+
+</summary>
+
 </details>
 
 <!-- [Pastebin][1] -->
