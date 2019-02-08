@@ -2,6 +2,12 @@
 layout: post
 ---
 
+<style type="text/css">
+    details {
+        display: block;
+    }
+</style>
+
 # English:
 
 Time Hud (nTime):
@@ -12,6 +18,7 @@ Features:
 <br>Automatically Calibrates for your Resolution
 
 <details>
+    <summary>Code</summary>
 ```lua
 @name Time Hud
 @inputs E:wirelink
