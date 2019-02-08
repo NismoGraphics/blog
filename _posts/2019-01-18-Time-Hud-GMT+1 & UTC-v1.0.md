@@ -18,9 +18,11 @@ Features:
 <br>Automatically Calibrates for your Resolution
 
 <details>
+
     <summary>Code</summary>
 
 ```
+
 @name Time Hud
 @inputs E:wirelink
  
@@ -58,13 +60,14 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
+
 ```
 
 </details>
 
 <!-- [Pastebin][1] -->
 
-Images(Screenshots) =
+<br><br>Images(Screenshots) =
 
 None
 
@@ -78,9 +81,11 @@ Funktioner:
 <br>Automatisk Kalibrer sig til dit spil' størrelse.
 
 <details>
+
     <summary>Kode</summary>
 
 ```
+
 @name Time Hud
 @inputs E:wirelink
  
@@ -118,13 +123,14 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
+
 ```
 
 </details>
 
 <!-- [Pastebin][1] -->
 
-Billeder(Screenshots) =
+<br><br>Billeder(Screenshots) =
 
 Ingen
 
