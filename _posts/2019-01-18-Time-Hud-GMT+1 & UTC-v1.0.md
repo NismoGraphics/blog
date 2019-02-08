@@ -17,7 +17,7 @@ Features:
 <br>Nice Design
 <br>Automatically Calibrates for your Resolution
 
-<details>
+<!-- <details>
 
 <summary>
 	Code
@@ -67,9 +67,9 @@ E:egpColor(2, 0,0,0,200)
 
 ```
 
-</details>
+</details> -->
 
-<!-- [Pastebin][1] -->
+[Pastebin][1]
 
 <br>Images(Screenshots) =
 
@@ -84,7 +84,7 @@ Funktioner:
 <br>Fedt Design
 <br>Automatisk Kalibrer sig til dit spil' størrelse.
 
-<details>
+<!-- <details>
 
     <summary>Kode</summary>
 
@@ -132,9 +132,9 @@ E:egpColor(2, 0,0,0,200)
 
 ```
 
-</details>
+</details> -->
 
-<!-- [Pastebin][1] -->
+[Pastebin][1]
 
 <br>Billeder(Screenshots) =
 
