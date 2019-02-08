@@ -20,7 +20,7 @@ Features:
 <details>
     <summary>Code</summary>
 
-```lua
+```
 @name Time Hud
 @inputs E:wirelink
  
@@ -80,7 +80,7 @@ Funktioner:
 <details>
     <summary>Kode</summary>
 
-```lua
+```
 @name Time Hud
 @inputs E:wirelink
  
