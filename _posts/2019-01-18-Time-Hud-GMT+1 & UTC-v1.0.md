@@ -11,7 +11,7 @@ Features:
 <br>Nice Design
 <br>Automatically Calibrates for your Resolution
 
-```lua
+||```lua
 @name Time Hud
 @inputs E:wirelink
  
@@ -49,7 +49,7 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
-```
+```||
 
 <!-- [Pastebin][1] -->
 
@@ -66,7 +66,7 @@ Funktioner:
 <br>Fedt Design
 <br>Automatisk Kalibrer sig til dit spil' størrelse.
 
-```lua
+|| ```lua
 @name Time Hud
 @inputs E:wirelink
  
@@ -104,7 +104,7 @@ E:egpRoundedBox(1, vec2(W/2,H-50), vec2(300,75))
 E:egpRoundedBoxOutline(2, vec2(W/2,H-50), vec2(300,75))
 E:egpColor(1, 0,0,0,135)
 E:egpColor(2, 0,0,0,200)
-```
+```||
 <!-- [Pastebin][1] -->
 
 Billeder(Screenshots) =
